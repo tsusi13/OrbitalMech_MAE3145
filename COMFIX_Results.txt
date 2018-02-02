@@ -1,0 +1,195 @@
+Data Set 0
+	['77.70', '-68.50', '50', '2454154.6376157']
+Site Info:
+	Latitude(deg): 1.356120828799594	Longitude(deg): -1.1955505376161157	Altitude(m): 0.05
+	JD: 2454154.6376157
+Sat 1001.0 Info:
+	Range(km): 2121.418	Azm(deg): 0.33092489815363685	Elv(deg): 0.6169861078847595
+	Range Rate(km/s): -3.3204	Azm Rate(deg/s): -0.0013357004765512605	Elv Rate(deg/s): 0.003554712087536851
+Semi Major Axis in Kilometers:
+	13365.4143648
+Eccentricity:
+	0.499084782446
+Eccentricity Vector:
+	[ 0.04506589 -0.41485219  0.27377426]
+Inclination in Degrees:
+	93.4987341551
+RAAN in Degrees:
+	278.498695561
+Argument of Periapsis in Degrees:
+	33.3379944379
+True Anomaly in Degrees:
+	54.4300879778
+Semi Latus Rectum in Kilometers:
+	10036.2818402
+Radius of Periapsis in Kilometers:
+	6694.93944422
+Radius of Apoapsis in Kilometers:
+	20035.8892853
+Line of Nodes Vector in Kilometers:
+	[  9329.98725535 -62438.12641061      0.        ]
+Orbit Period in Seconds:
+	15377.4594415
+Sat Radius Vector (ECI):
+[-424.33834223228803, -369.6873609048148, 7757.773624260728]
+Sat Velocity Vector (ECI):
+[-1.35952522  7.91179967  2.86776265]
+
+
+
+Data Set 2
+	['77.70', '-68.50', '50', '2454154.6377315']
+Site Info:
+	Latitude(deg): 1.356120828799594	Longitude(deg): -1.1955505376161157	Altitude(m): 0.05
+	JD: 2454154.6377315
+Sat 1001.0 Info:
+	Range(km): 2089.442	Azm(deg): 0.3169901894057141	Elv(deg): 0.6529381451465907
+	Range Rate(km/s): -3.0698	Azm Rate(deg/s): -0.00145892072174206	Elv Rate(deg/s): 0.0036325537721757983
+Semi Major Axis in Kilometers:
+	13364.7348919
+Eccentricity:
+	0.499051766851
+Eccentricity Vector:
+	[ 0.0450339  -0.41482195  0.27376517]
+Inclination in Degrees:
+	93.4989794632
+RAAN in Degrees:
+	278.495046481
+Argument of Periapsis in Degrees:
+	33.3392455891
+True Anomaly in Degrees:
+	55.0257419209
+Semi Latus Rectum in Kilometers:
+	10036.2120368
+Radius of Periapsis in Kilometers:
+	6695.04033062
+Radius of Apoapsis in Kilometers:
+	20034.4294532
+Line of Nodes Vector in Kilometers:
+	[  9325.97577488 -62438.48701694      0.        ]
+Orbit Period in Seconds:
+	15376.2868142
+Sat Radius Vector (ECI):
+[-437.96452923138088, -290.54845203529828, 7786.12191184315]
+Sat Velocity Vector (ECI):
+[-1.35538351  7.9146399   2.80206586]
+
+
+
+Data Set 4
+	['77.70', '-68.50', '50', '2454154.6377315']
+Site Info:
+	Latitude(deg): 1.356120828799594	Longitude(deg): -1.1955505376161157	Altitude(m): 0.05
+	JD: 2454154.6377315
+Sat 1001.0 Info:
+	Range(km): 2060.022	Azm(deg): 0.30174648371879564	Elv(deg): 0.6896371833282754
+	Range Rate(km/s): -2.8096	Azm Rate(deg/s): -0.0015985470619016065	Elv Rate(deg/s): 0.0037034141398067676
+Semi Major Axis in Kilometers:
+	13362.235773
+Eccentricity:
+	0.498950652074
+Eccentricity Vector:
+	[ 0.04468023 -0.41478375  0.27369668]
+Inclination in Degrees:
+	93.4992377478
+RAAN in Degrees:
+	278.447336967
+Argument of Periapsis in Degrees:
+	33.3374633292
+True Anomaly in Degrees:
+	55.6203546564
+Semi Latus Rectum in Kilometers:
+	10035.6837505
+Radius of Periapsis in Kilometers:
+	6695.13952088
+Radius of Apoapsis in Kilometers:
+	20029.332025
+Line of Nodes Vector in Kilometers:
+	[  9273.73412143 -62444.5702418       0.        ]
+Orbit Period in Seconds:
+	15371.9741166
+Sat Radius Vector (ECI):
+[-451.70541248914083, -211.05601659380829, 7813.8171849856672]
+Sat Velocity Vector (ECI):
+[-1.34503629  7.91764057  2.73659237]
+
+
+
+Data Set 6
+	['77.70', '-68.50', '50', '2454154.6379630']
+Site Info:
+	Latitude(deg): 1.356120828799594	Longitude(deg): -1.1955505376161157	Altitude(m): 0.05
+	JD: 2454154.637963
+Sat 1001.0 Info:
+	Range(km): 2033.251	Azm(deg): 0.285020993496934	Elv(deg): 0.7270064279427261
+	Range Rate(km/s): -2.5402	Azm Rate(deg/s): -0.001757197490907891	Elv Rate(deg/s): 0.003766071459953364
+Semi Major Axis in Kilometers:
+	13362.3894214
+Eccentricity:
+	0.498952174548
+Eccentricity Vector:
+	[ 0.04494406 -0.41475081  0.27370618]
+Inclination in Degrees:
+	93.4996355632
+RAAN in Degrees:
+	278.484214927
+Argument of Periapsis in Degrees:
+	33.3386722904
+True Anomaly in Degrees:
+	56.2080948952
+Semi Latus Rectum in Kilometers:
+	10035.7788467
+Radius of Periapsis in Kilometers:
+	6695.19616244
+Radius of Apoapsis in Kilometers:
+	20029.5826804
+Line of Nodes Vector in Kilometers:
+	[  9313.96430847 -62438.85766042      0.        ]
+Orbit Period in Seconds:
+	15372.2392541
+Sat Radius Vector (ECI):
+[-465.10184042823391, -132.20807851688278, 7840.861832425544]
+Sat Velocity Vector (ECI):
+[-1.34636574  7.91821267  2.6718953 ]
+
+
+
+Data Set 8
+	['77.70', '-68.50', '50', '2454154.6380787']
+Site Info:
+	Latitude(deg): 1.356120828799594	Longitude(deg): -1.1955505376161157	Altitude(m): 0.05
+	JD: 2454154.6380787
+Sat 1001.0 Info:
+	Range(km): 2009.217	Azm(deg): 0.26660427922988983	Elv(deg): 0.7649568671980908
+	Range Rate(km/s): -2.2624	Azm Rate(deg/s): -0.0019383626672649025	Elv Rate(deg/s): 0.003818431337513194
+Semi Major Axis in Kilometers:
+	13360.7492736
+Eccentricity:
+	0.498882541238
+Eccentricity Vector:
+	[ 0.04489464 -0.41470007  0.27366423]
+Inclination in Degrees:
+	93.5001299199
+RAAN in Degrees:
+	278.47849649
+Argument of Periapsis in Degrees:
+	33.3381760231
+True Anomaly in Degrees:
+	56.7936101335
+Semi Latus Rectum in Kilometers:
+	10035.4753578
+Radius of Periapsis in Kilometers:
+	6695.30472315
+Radius of Apoapsis in Kilometers:
+	20026.1938241
+Line of Nodes Vector in Kilometers:
+	[  9307.58686867 -62438.80986726      0.        ]
+Orbit Period in Seconds:
+	15369.409075
+Sat Radius Vector (ECI):
+[-478.61446649794095, -53.016099083146059, 7867.2644986686046]
+Sat Velocity Vector (ECI):
+[-1.34169942  7.91896321  2.60735404]
+
+
+

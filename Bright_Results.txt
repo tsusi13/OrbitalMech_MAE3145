@@ -1,0 +1,141 @@
+Observation Site Information:
+	Latitude(deg): 38.925
+	Longitude(deg): -77.057
+	Altitude(km): 0.054
+Observation Time:
+	JD Initial: 2458105.5
+	JD Final: 2458106.5
+TLE 0 for ATLAS CENTAUR 2:
+TLE 1 for THOR AGENA D R/B:
+Where to Look at 12/18/2017	 10:53:59 JD:
+	Range(km): 1291.2451320601576
+	Azmuth(deg): 491.89684923182455
+	Elevation(deg): 31.997646854239793
+Where to Look at 12/18/2017	 10:57:59 JD:
+	Range(km): 1238.5258585559359
+	Azmuth(deg): 373.9836086816905
+	Elevation(deg): 34.65144898793916
+TLE 2 for SL-3 R/B:
+TLE 3 for SL-8 R/B:
+Where to Look at 12/18/2017	 11:33:59 JD:
+	Range(km): 1441.1300467437245
+	Azmuth(deg): 477.749925738711
+	Elevation(deg): 28.360489919806042
+Where to Look at 12/18/2017	 11:35:59 JD:
+	Range(km): 1464.145348728073
+	Azmuth(deg): 437.87582292315307
+	Elevation(deg): 27.647364828134894
+Where to Look at 12/18/2017	 21:59:59 JD:
+	Range(km): 1122.3171903605787
+	Azmuth(deg): 394.3368237016546
+	Elevation(deg): 37.07982093672841
+Where to Look at 12/18/2017	 22:1:59 JD:
+	Range(km): 1091.450458708487
+	Azmuth(deg): 454.80713639922226
+	Elevation(deg): 38.12026515579298
+TLE 4 for SL-8 R/B:
+Where to Look at 12/18/2017	 1:43:59 JD:
+	Range(km): 913.0015877616195
+	Azmuth(deg): 381.78658211526994
+	Elevation(deg): 36.931094861979815
+Where to Look at 12/18/2017	 1:45:59 JD:
+	Range(km): 832.5987045157469
+	Azmuth(deg): 464.2528538041569
+	Elevation(deg): 41.9631765971634
+Where to Look at 12/18/2017	 1:47:59 JD:
+	Range(km): 1414.2404706653913
+	Azmuth(deg): 497.2031259123617
+	Elevation(deg): 18.623662358424422
+TLE 5 for OAO 2:
+Where to Look at 12/18/2017	 8:43:59 JD:
+	Range(km): 1219.4002932893832
+	Azmuth(deg): 501.89038960119603
+	Elevation(deg): 33.71326900214506
+Where to Look at 12/18/2017	 10:25:59 JD:
+	Range(km): 1275.6526929846257
+	Azmuth(deg): 240.27012638673244
+	Elevation(deg): 31.521880530102276
+Where to Look at 12/18/2017	 10:27:59 JD:
+	Range(km): 887.1228970737158
+	Azmuth(deg): 191.7706993788926
+	Elevation(deg): 55.74376072362699
+Where to Look at 12/18/2017	 10:29:59 JD:
+	Range(km): 1110.3248185611683
+	Azmuth(deg): 480.6529675308858
+	Elevation(deg): 38.982224828496385
+Where to Look at 12/18/2017	 12:11:59 JD:
+	Range(km): 1157.2987436362016
+	Azmuth(deg): 235.38508971880532
+	Elevation(deg): 36.588912025920386
+Where to Look at 12/18/2017	 12:15:59 JD:
+	Range(km): 1412.5690184496566
+	Azmuth(deg): 495.5435965328451
+	Elevation(deg): 26.79824986770717
+TLE 6 for ISIS 1:
+Where to Look at 12/18/2017	 8:21:59 JD:
+	Range(km): 1081.9671254428708
+	Azmuth(deg): 225.36011194764367
+	Elevation(deg): 29.189969937373224
+Where to Look at 12/18/2017	 8:23:59 JD:
+	Range(km): 911.6114346825784
+	Azmuth(deg): 296.68486189007075
+	Elevation(deg): 40.34265808859214
+Where to Look at 12/18/2017	 8:25:59 JD:
+	Range(km): 1494.3616856886488
+	Azmuth(deg): 336.8345259708892
+	Elevation(deg): 21.072269196975252
+TLE 7 for SERT 2:
+Where to Look at 12/18/2017	 4:5:59 JD:
+	Range(km): 1218.6415709150408
+	Azmuth(deg): 192.6077903200704
+	Elevation(deg): 56.64516566886536
+Where to Look at 12/18/2017	 4:7:59 JD:
+	Range(km): 1118.2822595838684
+	Azmuth(deg): 300.9196495247799
+	Elevation(deg): 68.37389899762844
+TLE 8 for SL-3 R/B:
+Where to Look at 12/18/2017	 10:19:59 JD:
+	Range(km): 1448.5958441103817
+	Azmuth(deg): 492.3195274745808
+	Elevation(deg): 13.44344192953899
+Where to Look at 12/18/2017	 10:21:59 JD:
+	Range(km): 1139.68365459303
+	Azmuth(deg): 452.47194104493326
+	Elevation(deg): 20.574810973722744
+Where to Look at 12/18/2017	 10:23:59 JD:
+	Range(km): 1422.2182773758416
+	Azmuth(deg): 411.5926111331353
+	Elevation(deg): 14.017377096104287
+Where to Look at 12/18/2017	 11:55:59 JD:
+	Range(km): 1210.9201152263272
+	Azmuth(deg): 269.07589277891907
+	Elevation(deg): 18.656398458494493
+Where to Look at 12/18/2017	 11:57:59 JD:
+	Range(km): 1283.58785409965
+	Azmuth(deg): 313.7097036100079
+	Elevation(deg): 16.93023586494836
+Where to Look at 12/18/2017	 21:43:59 JD:
+	Range(km): 1168.638082302046
+	Azmuth(deg): 372.34720293474265
+	Elevation(deg): 18.52654920924294
+Where to Look at 12/18/2017	 21:47:59 JD:
+	Range(km): 1002.6639164008809
+	Azmuth(deg): 498.5361591475048
+	Elevation(deg): 22.999380647324962
+TLE 9 for SL-3 R/B:
+Where to Look at 12/18/2017	 6:11:59 JD:
+	Range(km): 1273.3484423594707
+	Azmuth(deg): 432.5154488167649
+	Elevation(deg): 20.632986103136194
+Where to Look at 12/18/2017	 7:45:59 JD:
+	Range(km): 1418.5932865289842
+	Azmuth(deg): 310.07551732127524
+	Elevation(deg): 17.112043452834204
+Where to Look at 12/18/2017	 7:47:59 JD:
+	Range(km): 1125.3616008460717
+	Azmuth(deg): 268.58547942659226
+	Elevation(deg): 25.080323648063388
+Where to Look at 12/18/2017	 7:49:59 JD:
+	Range(km): 1418.8482640876334
+	Azmuth(deg): 227.0915023218734
+	Elevation(deg): 17.180727659081473

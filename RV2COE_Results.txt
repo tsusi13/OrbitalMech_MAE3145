@@ -1,0 +1,35 @@
+Line 2
+	['-3084.7', '30.0', '6911.0', '5.66', '-4.07', '3.84']
+The mu Constant: 
+	398600.5
+Radius 2 (km)
+	[-3084.7, 30.0, 6911.0]
+Velocity 2 (km/s)
+	[5.66, -4.07, 3.84]
+Semi Major Axis in Kilometers:
+	9492.9710195
+Eccentricity:
+	0.24962017705
+Eccentricity Vector:
+	[-0.20982221  0.09225849  0.09885972]
+Inclination in Degrees:
+	77.9995786434
+RAAN in Degrees:
+	151.004691871
+Argument of Periapsis in Degrees:
+	23.8841715215
+True Anomaly in Degrees:
+	45.1126592739
+Semi Latus Rectum in Kilometers:
+	8901.4617854
+Radius of Periapsis in Kilometers:
+	7123.33391288
+Radius of Apoapsis in Kilometers:
+	11862.6081261
+Line of Nodes Vector in Kilometers:
+	[-0.85554466  0.47414457  0.        ]
+Orbit Period in Seconds:
+	9204.796284
+
+
+

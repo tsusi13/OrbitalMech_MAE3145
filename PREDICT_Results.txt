@@ -1,0 +1,8 @@
+Observation Site Information:
+	Latitude(deg): 38.925
+	Longitude(deg): -77.057
+	Altitude(km): 0.054
+Observation Time:
+	JD Initial: 2458088.5
+	JD Final: 2458092.5
+TLE 0 for ATLAS CENTAUR 2:
